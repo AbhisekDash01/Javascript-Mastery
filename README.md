@@ -9,3 +9,4 @@ Made to store all js projects in one place.
 4.project 4-https://github.com/AbhisekDash01/E-Commerce-UI.git
 4.project 4-https://github.com/AbhisekDash01/Developer-Portfolio.git
 5.project 5-https://github.com/AbhisekDash01/quizfun.git
+6.project 6-https://github.com/AbhisekDash01/weather-API.git
