@@ -11,3 +11,4 @@ Made to store all js projects in one place.
 6.project 6-https://github.com/AbhisekDash01/quizfun.git
 7.project 7-https://github.com/AbhisekDash01/weather-API.git
 8.project 8-https://github.com/AbhisekDash01/Interactive-Image-Gallery.git
+9.project 9-https://github.com/AbhisekDash01/landing-page-UI.git
