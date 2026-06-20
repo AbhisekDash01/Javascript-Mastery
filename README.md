@@ -12,4 +12,4 @@ Made to store all js projects in one place.
 7.project 7-https://github.com/AbhisekDash01/weather-API.git
 8.project 8-https://github.com/AbhisekDash01/Interactive-Image-Gallery.git
 9.project 9-https://github.com/AbhisekDash01/landing-page-UI.git
-10.project 10=https://github.com/AbhisekDash01/secure-form-validator.git
+10.project 10-https://github.com/AbhisekDash01/secure-form-validator.git
