@@ -4,4 +4,4 @@ Made to store all js projects in one place.
 
 
 1.project 1-https://github.com/AbhisekDash01/TODO.git
-2.project 2-
+2.project 2-https://github.com/AbhisekDash01/Digital-Calculator.git
